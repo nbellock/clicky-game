@@ -1,10 +1,8 @@
 # Dog Clicky Game
 
-## Overview
+### Overview
 
-For this project, I created a memory game with React. This project required me to break up my application's UI into components, manage component state, and respond to user events.
-
-### Instructions
+This app is a memory game with React. This project required me to break up my application's UI into components, manage component state, and respond to user events. It's made by following up the instruction below: 
 
 1. Create a new React application using [Create React App](https://github.com/facebookincubator/create-react-app).
 
@@ -16,11 +14,5 @@ For this project, I created a memory game with React. This project required me t
 
 5. Once the user's score is reset after an incorrect guess, the game should restart.
 
-6. When complete, the application should be deployed to Github Pages. See the README generated with Create React App for instructions on deploying the application to Github Pages.
-
-- - -
-
-## Copyright
-
-Coding Boot Camp (C) 2016. All Rights Reserved.
+![Image](public/img/dog-clicky-game.png)
 
